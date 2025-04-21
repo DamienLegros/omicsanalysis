@@ -24,7 +24,7 @@ All the plots and analysis done can be found in the pdf presentation **`Small Da
  
 #### PCA with Abundance Pie charts
 
-![family_PCA](plots\family_PCA.png)
+![family_PCA](https://raw.githubusercontent.com/DamienLegros/omicsanalysis/refs/heads/main/plots/family_PCA.png)
 
 The PCA using all the sample data have a high explained variance (PC1 11,83%, PC2 28,68%)However the features importance shows that the weights of each sample variable is really low (<0.015) for PC1 no features are more important than the others
 
@@ -35,7 +35,7 @@ Overall the PCA needs refining choosing specific sample variables as some might 
 
 #### Sample data correlation matrix
 
-![family_PCA](plots\overall_food_corr.png)
+![overall_food_corr](https://raw.githubusercontent.com/DamienLegros/omicsanalysis/refs/heads/main/plots/overall_food_corr.png)
 
 There is high correlation between the overall and food.
 
@@ -45,7 +45,7 @@ The metabolomics on the other end are not correlated at all with the other sampl
 
 #### OTU vs Sample data correlation matrix
 
-![family_PCA](plots\phylum_food_corr.png)
+![phylum_food_corr](https://raw.githubusercontent.com/DamienLegros/omicsanalysis/refs/heads/main/plots/phylum_food_corr.png)
 
 The correlations are pretty low (highest lower than 0.2).
 
